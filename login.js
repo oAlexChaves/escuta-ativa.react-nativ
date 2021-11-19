@@ -6,6 +6,7 @@ import Artigo from "./src/components/artigo/index";
 export default function App() {
   return (
     <View style={styles.container}>
+      <Text>Matheus pior do mundo</Text>
       <Artigo/>
       <StatusBar style="auto" />
     </View>
